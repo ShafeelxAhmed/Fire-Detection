@@ -33,7 +33,7 @@ This project is a real-time fire detection system leveraging **YOLOv8**, **OpenC
 ## Results 📸
 The model successfully detects fire in real-time! Check out the sample image below:  
 
-![Fire Detection Example](example.png)
+![Fire Detection Example](https://github.com/user-attachments/assets/bdc8cc3d-5ce1-45b2-88ce-5432573c6050)
 
 ## Contributing 🤝
 Feel free to fork this repository, submit issues, or contribute to improving fire detection accuracy!
@@ -42,4 +42,4 @@ Feel free to fork this repository, submit issues, or contribute to improving fir
 This project is open-source and available under the **MIT License**.
 
 ---  
-Made with ❤️ by [Your Name]
+ by Shafeel Ahmed
