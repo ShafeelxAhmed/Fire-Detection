@@ -38,8 +38,5 @@ The model successfully detects fire in real-time! Check out the sample image bel
 ## Contributing 🤝
 Feel free to fork this repository, submit issues, or contribute to improving fire detection accuracy!
 
-## License 📝
-This project is open-source and available under the **MIT License**.
-
 ---  
  by Shafeel Ahmed
